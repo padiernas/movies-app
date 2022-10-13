@@ -1,0 +1,22 @@
+
+.contenedor-caratula{
+    text-align: center;
+    border-radius: 10px;
+    padding: 25px;
+    background: linear-gradient(to bottom, #ece4d9 0%,#e9dfd1 100%);
+    box-shadow: 0 8px 9px #c4b59d, 0px -2px 1px #fff;
+}
+
+.caratula{
+    
+}
+
+.imagen-caratula{
+    border-radius: 10px;
+    width: 190px;
+}
+
+.nombre-caratula{
+    font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
+    color:white
+}
